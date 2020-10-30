@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rxjs-basics"
+    }
+  },
+  "defaultProject": "rxjs-basics",
+  "cli": {
+    "analytics": false
+  }
 }
