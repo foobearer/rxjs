@@ -1,6 +1,8 @@
-# RxjsBasics
+# Rxjs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+This project will serve as my reference of all RxJs operators. 
+Each operator will have an example of what it does and how you could use it in your project.
+This is generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
 
