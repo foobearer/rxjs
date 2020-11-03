@@ -71,6 +71,7 @@ export class FiltersComponent implements OnInit {
       next: console.log,
       complete: () => console.log('complete!')
     })
+    
   }
 
 }
